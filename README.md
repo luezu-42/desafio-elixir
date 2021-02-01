@@ -19,4 +19,4 @@ $ node index.js
 
 # O resultado sera impresso no console
 ``` 
-Para alterar o input(entrada de dados) altera os json #list.json e #itens.json
+Para alterar o input(entrada de dados) altera os json **list.json** e **itens.json**
