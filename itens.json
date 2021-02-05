@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Chocolate",
+        "value":5,
+        "quantity":1
+    },
+    {
+        "name":"Maçã",
+        "value":1,
+        "quantity":1
+    },
+    {
+        "name":"Cenoura",
+        "value":2,
+        "quantity":2
+    }
+]
