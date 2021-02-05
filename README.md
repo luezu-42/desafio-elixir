@@ -19,7 +19,7 @@ $ node index.js
 
 # O resultado sera impresso no console
 ``` 
-Para alterar os inputs(entrada de dados) altere os arquivos **lista.json** e **items.json**, deixe os 3 arquivos junto em uma pasta para a execução do código.
+Para alterar os inputs(entrada de dados) altere os arquivos **lista.json** e **itens.json**, deixe os 3 arquivos junto (index.js, lista.js e itens.js) em uma pasta para a execução do código.
 
 <h2 align="center">  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | </h2>
 
