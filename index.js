@@ -91,6 +91,6 @@ if (fs.existsSync("./itens.json" && "./lista.json")) {
   CriandoMapa();
 } else {
   console.log(
-    "Tenha certeza que os arquivos itens.json e lista.json estejam presentes na mesma pasta e ambos os arquivos com os titulos certos."
+    "Tenh certeza que os arquivos itens.json e lista.json estejam presentes na mesma pasta e ambos os arquivos com os titulos certos."
   );
 }
